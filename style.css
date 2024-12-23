@@ -1,0 +1,8 @@
+.category:hover img {
+    transform: scale(1.1);
+    filter: brightness(1.2);
+}
+.category:hover h3, .category:hover p {
+    color: #ffd700;
+    transition: color 0.3s ease-in-out;
+}
